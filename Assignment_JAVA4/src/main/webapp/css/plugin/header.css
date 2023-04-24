@@ -1,0 +1,439 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header ul li {
+    margin-left: 60px;
+}
+.sp-moi {
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
+.sp-banChay {
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
+.gioiThieu {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.gioiThieu-ND p {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+.tieuDe-sk {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Times New Roman";
+}
+.noiDung-sk {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+footer {
+    padding-top: 50px;
+}
+.hi ul {
+    width: 10%;
+    float: left;
+}
+
+footer {
+    margin-top: 50px;
+    padding-top: 70px;
+    background-color: beige;
+    padding-bottom: 90px;
+    padding-right: 5px;
+}
+.cot1 {
+    width: 60%;
+    height: 150px;
+    float: left;
+    text-align: left;
+}
+.cot2 {
+    width: 40%;
+    height: 150px;
+    float: right;
+    text-align: left;
+}
+.lienhe {
+    margin: 50px;
+}
+
+.container-foot {
+    margin-left: 90px;
+}
+.container-foot form {
+    position: relative;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+.container-foot form input {
+    width: 200px;
+    height: 46px;
+    padding-left: 20px;
+    border: 1px solid #ededed;
+}
+.container-foot form button {
+    right: 0;
+    top: 0;
+    height: 49px;
+    border: 1px solid #ededed;
+}
+.content-blog b h2 {
+    text-align: center;
+}
+
+a:-webkit-any-link {
+    color: black;
+    text-decoration: none;
+}
+.icons button {
+    border: 1px solid #ededed;
+    border-radius: 40%;
+    line-height: 38px;
+}
+.calender img {
+    height: 15px;
+}
+.content-blog b h2 {
+    color: darkgreen;
+}
+
+.cart button {
+    border: 1px solid;
+    background-color: white;
+    height: 50px;
+    width: 60px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.cart button img {
+    width: 20px;
+    height: 20px;
+}
+
+.banner img {
+    width: 1438px;
+    margin-top: 56px;
+}
+.new {
+    margin-top: 80px;
+    margin-left: 60px;
+    padding-right: 120px;
+}
+.new span img {
+    margin-right: 90px;
+    width: 60px;
+    height: 70px;
+}
+.card-body b h5 {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.card-body .card-text {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.card-body a {
+    background-color: #ededed;
+    margin-top: 20px;
+}
+.item-product {
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.item-product .content b {
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.anh {
+    margin-right: 150px;
+}
+.hi {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-right: 30px;
+}
+.content span img {
+    margin-left: 50px;
+}
+.content h6 {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-right: 30px;
+}
+.content p {
+    margin-left: 10px;
+}
+.w3-container-w3-teal {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.w3-text-teal {
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+input {
+    width: 400px;
+}
+.loai {
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+.form-select {
+    width: 350px;
+    margin-left: 500px;
+    margin-top: -60px;
+    right: 20px;
+}
+.image {
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+.btn-outline-warning {
+    margin-top: -65px;
+    margin-left: 900px;
+}
+/* .btn-outline-danger {
+  margin-left: 900px;
+  margin-bottom: 50px;
+}
+.btn-outline-success {
+  margin-left: 700px;
+} */
+.add {
+    margin-left: 900px;
+    margin-bottom: 50px;
+}
+.col-lg-3 ul li a {
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-top: 90px;
+    font-size: 18px;
+    margin-right: 30px;
+    margin-bottom: 200px;
+    height: 475.2911682128906px;
+    width: 123.01138305664062px;
+    left: 68px;
+    top: 292px;
+    border-radius: nullpx;
+}
+ul li {
+    list-style: none;
+}
+
+.col-sm-3 {
+    margin-top: 50px;
+}
+.col-sm-3 .col-lg-3 ul li a {
+    width: 50px;
+}
+.detail {
+    text-align: center;
+    margin-top: 50px;
+}
+.chitietTT {
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    margin: 0 -16px;
+}
+
+.col-25 {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+}
+.search {
+    margin-top: 40px;
+    margin-left: 600px;
+}
+
+/* .col-50 {
+  -ms-flex: 50%;
+  flex: 50%;
+} */
+
+/* .col-75 {
+  -ms-flex: 75%;
+  flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+  padding: 0 16px;
+}
+
+.container {
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type="text"] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+} */
+
+/* .btn {
+  background-color: #04aa6d;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+} */
+
+/* .btn:hover {
+  background-color: #45a049;
+} */
+
+/* a {
+  color: #2196f3;
+}
+
+hr {
+  border: 1px solid lightgrey;
+}
+
+span.price {
+  float: right;
+  color: grey;
+} */
+.sp- {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.uudai {
+    margin-top: 50px;
+    margin-left: -400px;
+}
+.ud1{
+    color: red;
+}
+.goiY{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
+.nav-item{
+    margin-left: 60px;
+}
+footer {
+    margin-top: 50px;
+    padding-top: 70px;
+    background-color: beige;
+    padding-bottom: 90px;
+    padding-right: 5px;
+}
+.lienHe .cot1{
+    width: 60%;
+    height: 150px;
+    float: left;
+    text-align: left;
+}
+.cot2 {
+    width: 40%;
+    height: 150px;
+    float: right;
+    text-align: left;
+}
+.lienhe {
+    margin: 50px;
+}
+
+.container-foot {
+    margin-left: 90px;
+}
+.container-foot form {
+    position: relative;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+.container-foot form input {
+    width: 200px;
+    height: 46px;
+    padding-left: 20px;
+    border: 1px solid #ededed;
+}
+.container-foot form button {
+    right: 0;
+    top: 0;
+    height: 49px;
+    border: 1px solid #ededed;
+}
+.content-blog b h2 {
+    text-align: center;
+}
+
+a:-webkit-any-link {
+    color: black;
+    text-decoration: none;
+}
+.icons button {
+    border: 1px solid #ededed;
+    border-radius: 40%;
+    line-height: 38px;
+}
